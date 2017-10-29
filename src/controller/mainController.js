@@ -7,7 +7,7 @@ angular.module('angularApp')
         $scope.getFactory  = mainFactory.getPrivate();
         $scope.getService  = mainService.getPrivate();
         $scope.getProvider = mainProvider.getPrivate();
-        $scope.name='Swapnil';
+        $scope.name='Swapnil Nakate';
 
 
     }]);
